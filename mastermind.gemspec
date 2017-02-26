@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["victorozichi@gmail.com"]
 
   spec.summary       = %q{ Mastermind is a guess game}
-  spec.description   = %q{ Write a longer description or delete this line.}
+  spec.description   = %q{ A player guesses the the colors chosen by the computer and the slots for the colors. A player has 12 turns to try. }
   spec.homepage      = 'https://github.com/victorozichi/mastermind'
   spec.license       = 'MIT'
 
